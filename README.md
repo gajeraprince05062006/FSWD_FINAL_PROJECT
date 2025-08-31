@@ -39,28 +39,27 @@ A **full-stack web application** built with **React.js (frontend)** and **Expres
 
 ## 📂 Project Structure
 
-mess-management-system/
+📁 mess-management-system/
 │
-├── client/ # React frontend
-│ ├── public/ # Static files
-│ ├── src/ # React source code
-│ │ ├── components/ # Reusable components
-│ │ ├── pages/ # Page-level components
-│ │ ├── App.jsx
-│ │ └── index.js
-│ └── package.json
+├── 📁 client/ # React frontend
+│ ├── 📁 public/ # Static files
+│ ├── 📁 src/ # React source code
+│ │ ├── 📁 components/ # Reusable components
+│ │ ├── 📁 pages/ # Page-level components
+│ │ ├── 📄 App.jsx
+│ │ └── 📄 index.js
+│ └── 📄 package.json
 │
-├── server/ # Express backend
-│ ├── config/ # DB config & environment
-│ ├── controllers/ # API logic
-│ ├── models/ # DB models
-│ ├── routes/ # Express routes
-│ ├── server.js # Main entry point
-│ └── package.json
+├── 📁 server/ # Express backend
+│ ├── 📁 config/ # DB config & environment
+│ ├── 📁 controllers/ # API logic
+│ ├── 📁 models/ # DB models
+│ ├── 📁 routes/ # Express routes
+│ ├── 📄 server.js # Main entry point
+│ └── 📄 package.json
 │
-├── .gitignore
-├── README.md
-└── package.json # root config
-
+├── 📄 .gitignore
+├── 📄 README.md
+└── 📄 package.json # root config
 
 ---
