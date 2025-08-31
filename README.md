@@ -42,21 +42,13 @@ A **full-stack web application** built with **React.js (frontend)** and **Expres
 mess-management-system/
 │
 ├── client/ # React frontend
-
 │ ├── public/ # Static files
-
 │ ├── src/ # React source code
-
 │ │ ├── components/ # Reusable components
-
 │ │ ├── pages/ # Page-level components
-
 │ │ ├── App.jsx
-
 │ │ └── index.js
-
 │ └── package.json
-
 │
 ├── server/ # Express backend
 │ ├── config/ # DB config & environment
